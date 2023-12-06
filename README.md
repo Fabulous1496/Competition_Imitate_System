@@ -1,5 +1,5 @@
 # Competition_Imitate_System
-Hello,everyone!🙋‍♂️
+Hello,everyone!🙋‍♂️\n
 This is a project about a imitation system of a virtual speech competition.
 Here are some background information:
 Each turn of this competition has 12 competitors.
